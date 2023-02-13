@@ -1,6 +1,6 @@
-#Cotton Leaf Disease Prediction using ResNet-152v2
+# Cotton Leaf Disease Prediction using ResNet-152v2
 
-##Introduction
+## Introduction
 Cotton is one of the most important cash crops in many countries, and the detection and prediction of cotton leaf diseases is crucial for the productivity and profitability of cotton farming. In this project, we aim to build a deep learning model using ResNet-152v2 architecture to predict cotton leaf diseases.
 
 Data
